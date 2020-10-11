@@ -1,0 +1,20 @@
+.marg {
+  margin: 8% 10%;
+}
+
+.us {
+  background-color: #343a40;
+  margin: 0;
+  padding: 60px;
+  color: white;
+}
+
+h3 {
+  padding-left: 10px;
+  color: rgb(207, 207, 207);
+}
+
+p {
+  padding-left: 20px;
+  color: rgb(173, 173, 173);
+}
